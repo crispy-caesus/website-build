@@ -25,7 +25,7 @@ damit Ihr grob nen Überblick habt was wir schon wissen, hier das Update mit meh
 * Samstag 2026-03-21:  
   * 10 Uhr Start
   * Bisher gibt es die ein oder anderen Workshops welche im Pad aktuell gehalten werden
-    * Essen im Homeoffice, Lockpicking, Amateurfunk, Eventphone light oder Matebrauen mit Till
+    * Essen im Homeoffice, Lockpicking, Amateurfunk, Eventphone light oder Matebrauen mit Till, Meeting Chaos Roadtrip
   * 18/19 Uhr gemeinsam grillen
   
 * Sonntag 2026-03-22
@@ -43,13 +43,13 @@ Für das Event gibt es dieses mal einen eigenen Matrix-Raum!
   
 _Wichtige Infos:_  
    
-Das [Rechenwerk](https://rechenwerk-halle.de/) (zu Fuß, Zweirad oder Fahrgemeinschaften) kann in der Nähe gern nochmal auf eigene Faust besucht werden (Freitag und ggf. Samstag). Bitte mit den Kontaktdaten aus dem Pad selbst organisierne und gern auch einen Spende vor Ort da lassen.
+Das [Rechenwerk](https://rechenwerk-halle.de/) (zu Fuß, Zweirad oder Fahrgemeinschaften) kann in der Nähe gern nochmal auf eigene Faust besucht werden (Freitag und ggf. Samstag). Bitte mit den Kontaktdaten aus dem Pad selbst organisieren und gern auch einen Spende vor Ort da lassen.
   
-Da wir aktuell einen *Nahverkehrsstreik (HAVAG)* von Donnerstag mit Montag erwarten, möchten wir an unser Lastenfahrrad und unsere Leihfahrräder eininnern. Könnt Ihr bei Bedarf auch gern ausleihen.Hierzu bitte gern im Matrix-Eventraum melden.
+Da wir aktuell einen *Nahverkehrsstreik (HAVAG)* von Donnerstag mit Montag erwarten, möchten wir an unser Lastenfahrrad und unsere Leihfahrräder erinnern. Könnt Ihr bei Bedarf auch gern ausleihen. Hierzu bitte gern im Matrix-Eventraum melden.
   
 Wir haben derzeit eine neue Teststellung für *DECT im gesammten Haus*. Bringt gern eure DECT-Telefone (Congress fähige Geräte, gehn auch bei uns) mit und erforscht gemeinsam mit uns Netzabdeckung, Sprachqualität und neue Ideen für C3-Telegaming.
 
-Für die Getränke vor Ort wird es dieses mal eine *GNU-Taler* Instanz geben. Details wir Ihr Geld aufladen könnt oder wie das Grundsätzlich alles läuft beantwortet vor Ort unsere EBK-BANK. 
+Für die Getränke vor Ort wird es dieses mal eine *GNU-Taler* Instanz geben. Details, wir Ihr Geld aufladen könnt oder wie das Grundsätzlich alles läuft, beantwortet vor Ort unsere EBK-BANK. 
     
 Für die Teilnahme am HaGeWe benötigt ihr ein Ticket. Sichert euch eins, solange es noch welche gibt!   
 [zum Ticketshop](https://tickets.eigenbaukombinat.de/ebk/HaGeWe26/)  
